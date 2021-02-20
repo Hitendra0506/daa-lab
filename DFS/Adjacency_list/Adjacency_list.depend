@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549532686 source:c:\users\computer center #54\documents\171210028\daa_lab\adjacency_list\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+
